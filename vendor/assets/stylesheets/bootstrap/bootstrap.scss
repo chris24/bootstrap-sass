@@ -27,7 +27,8 @@
 @import "bootstrap/tables";
 
 // Components: common
-@import "bootstrap/sprites";
+// @import "bootstrap/sprites";
+@import "bootstrap/font-awesome";
 @import "bootstrap/dropdowns";
 @import "bootstrap/wells";
 @import "bootstrap/component-animations";
@@ -58,6 +59,9 @@
 @import "bootstrap/accordion";
 @import "bootstrap/carousel";
 @import "bootstrap/hero-unit";
+
+// Components: Cosmo
+@import "bootstrap/bootswatch";
 
 // Utility classes
 @import "bootstrap/utilities"; // Has to be last to override when necessary
