@@ -1,3 +1,5 @@
+// The following JS files can be activated by copying them just before this comment.
+
 //= require bootstrap-transition
 //= require bootstrap-affix
 //= require bootstrap-alert
